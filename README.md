@@ -1,2 +1,2 @@
-# golang-ini-configuration-parser
+# golang-ini-parser
 ##
